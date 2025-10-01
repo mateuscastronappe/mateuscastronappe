@@ -1,4 +1,4 @@
-# Olá, eu sou o Mateus Castro Nappe! 👋
+# Olá, eu sou o Mateus de Castro Nappe! 👋
 
 <br>
 
@@ -8,6 +8,7 @@ Eu sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender no
 <br>
 
 ## 🛠️ Habilidades
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
