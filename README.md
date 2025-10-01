@@ -8,7 +8,6 @@ Eu sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender no
 <br>
 
 ## 🛠️ Habilidades
-## 🛠️ Habilidades
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
