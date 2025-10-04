@@ -40,5 +40,6 @@ Eu sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender no
 <br>
 
 ## 📫 Como me encontrar
+[![Portfolio](https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-lime-eight-34.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-castro-0a43b82b3/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusdecastronappe@gmail.com)
